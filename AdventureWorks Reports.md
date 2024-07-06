@@ -2,7 +2,7 @@
 
 AdventureWorks Cycle is a fictional manufacturing company. As a Data Analyst I used Power BI to transform raw data into professional-quality reports and dashboards, to track KPIs, compare regional performance and analyze product-level trends and identify high-value customers. 
 
-🚀 Learnings
+### 🚀 Learnings
 #### 🛠️ Preprocessing Data: 
 Utilized Power Query to extract, clean, transform, and load data.
 Explored various tools for text, numerical, and date & time manipulation.
