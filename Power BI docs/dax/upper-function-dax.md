@@ -1,6 +1,6 @@
 ### 📌 `UPPER`
 
-These functions convert a text string to uppercase.
+The `UPPER` function convert a text string to uppercase.
 
 #### 🔧 Syntax
 
