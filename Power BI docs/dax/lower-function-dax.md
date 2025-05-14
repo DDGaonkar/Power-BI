@@ -1,6 +1,6 @@
 ### 📌 `LOWER`
 
-These functions convert a text string to lowercase.
+The `LOWER` function convert a text string to lowercase.
 
 #### 🔧 Syntax
 
